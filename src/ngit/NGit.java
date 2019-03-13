@@ -23,5 +23,9 @@ public class NGit {
             System.out.println("Ala ma kota");
         }
     }
+    public static int alfa(int a)
+    {
+        return a*2;
+    }
     
 }
