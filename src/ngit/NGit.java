@@ -17,6 +17,7 @@ public class NGit {
     public static void main(String[] args) 
     {
         System.out.println("Hellos");
+        //Popraw tego printa
         System.out.println("Dalsza czesc projektu");
     }
     
