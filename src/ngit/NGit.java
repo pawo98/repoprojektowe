@@ -17,8 +17,11 @@ public class NGit {
     public static void main(String[] args) 
     {
         System.out.println("Hellos");
-        //Popraw tego printa
         System.out.println("Dalsza czesc projektu");
+        for(int i = 0; i < 30; i++)
+        {
+            System.out.println("Ala ma kota");
+        }
     }
     
 }
